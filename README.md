@@ -1,2 +1,2 @@
 # StarTrek
-Code used in presentation to demo Groovy &amp; Spock
+Code created in presentation to demo Groovy &amp; Spock
