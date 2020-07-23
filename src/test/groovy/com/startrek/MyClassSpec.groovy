@@ -1,8 +1,5 @@
 package com.startrek
  
-import com.startrek.MyClass
-import com.startrek.StarTrek
-
 import spock.lang.Specification
 
 class MyClassSpec extends Specification {
